@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- My name is Noah, and I'm a software engineer. My interests are in software development, software-defined networking, and machine learning. You can contact me on [LinkedIn](https://www.linkedin.com/in/noahkuo/).
+
 <!--
 **noah-kuo/noah-kuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
